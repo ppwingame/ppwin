@@ -1,35 +1,35 @@
-# PPWin——全球領先的區塊鏈遊戲平台，公平公正透明。
+# PPWin - the world's leading blockchain game platform, fair and transparent.
 <br>
-雙幣同發
+Double currency
 
-PPO穩定幣恆定價格，PPC全球通證
-
-<br>
-<br>
-模式清晰
-
-商業模式清晰，發展潛力無限，資產穩定增值
+PPO stable currency constant price, PPC Global Pass
 
 <br>
 <br>
-去中心化
+Clear mode
 
-公平公正透明，且不可篡改
-
-<br>
-<br>
-資產安全
-
-資產安全，所有資產存放在智能合約，任何人或者組織均不可觸碰
+Clear business model, unlimited development potential, stable asset appreciation
 
 <br>
 <br>
-隱私安全
+Decentralization
 
-無需手機，郵箱註冊，全面去中心化。不洩露任何個人信息，無安全無隱患
+Fair, fair and transparent, and cannot be falsified
 
 <br>
 <br>
-無中心化伺服器
+Asset security
 
-無中心化伺服器，核心數據全部上鏈，無後台管理，無管理員控制
+Asset security, all assets are stored in smart contracts, no one or organization can touch
+
+<br>
+<br>
+Privacy security
+
+No need for mobile phones, email registration, and full decentralization. Do not reveal any personal information, no security, no hidden dangers
+
+<br>
+<br>
+Uncentered server
+
+Uncentered server, core data is all on the chain, no background management, no administrator control
